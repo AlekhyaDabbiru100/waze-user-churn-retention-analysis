@@ -1,0 +1,4 @@
+risk_segment,retention_action,business_reason
+High Risk,Send immediate personalized retention offer or app re-engagement campaign,Highest churn rate; worth spending retention budget
+Medium Risk,"Send educational nudges, route-quality reminders, and feature prompts",Moderate churn risk; use lower-cost interventions
+Low Risk,No discount needed; monitor with low-cost engagement messaging,Low churn risk; avoid wasting expensive offers

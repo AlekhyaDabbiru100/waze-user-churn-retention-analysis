@@ -1,0 +1,5 @@
+activity_segment,users,churn_rate
+Very Low Activity,3960,0.3472222222222222
+Low Activity,3560,0.18483146067415732
+Medium Activity,3249,0.09941520467836257
+High Activity,3530,0.05099150141643059
